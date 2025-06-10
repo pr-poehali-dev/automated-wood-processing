@@ -38,10 +38,7 @@ const CTASection = () => {
               <Button
                 size="lg"
                 className="bg-green-600 hover:bg-green-700 text-white"
-              >
-                <Icon name="Phone" size={20} className="mr-2" />
-                Заказать звонок
-              </Button>
+              ></Button>
               <Button
                 size="lg"
                 variant="outline"
@@ -62,10 +59,8 @@ const CTASection = () => {
                   <Icon name="MapPin" size={20} className="text-white" />
                 </div>
                 <div>
-                  <div className="font-semibold">Офис и производство</div>
-                  <div className="text-gray-300">
-                    г. Москва, ул. Производственная, 123
-                  </div>
+                  <div className="font-semibold"></div>
+                  <div className="text-gray-300"></div>
                 </div>
               </div>
 
