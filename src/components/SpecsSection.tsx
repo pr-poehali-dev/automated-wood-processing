@@ -13,7 +13,7 @@ const specs = [
   {
     category: "Параметры оборудования",
     items: [
-      { label: "Площадь линии", value: "не более 30 м.кв." },
+      { label: "Площадь линии", value: "не более 15 м.кв." },
       { label: "Общий вес", value: "1,2 тонны" },
       { label: "Потребление электроэнергии", value: "до 10 кВт/час" },
     ],
@@ -88,10 +88,8 @@ const SpecsSection = () => {
               <div className="text-green-100">утилизация отходов</div>
             </div>
             <div>
-              <div className="text-3xl font-bold mb-2">70%</div>
-              <div className="text-green-100">
-                автоматизации изготовления блоков
-              </div>
+              <div className="text-3xl font-bold mb-2">100%</div>
+              <div className="text-green-100">автоматизация</div>
             </div>
             <div>
               <div className="text-3xl font-bold mb-2">3мм</div>

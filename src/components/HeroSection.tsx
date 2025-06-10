@@ -11,10 +11,10 @@ const HeroSection = () => {
                 <span className="text-white font-bold text-xl">Л</span>
               </div>
               <div>
-                <h3 className="uppercase tracking-wide text-orange-600 font-bold text-4xl">
-                  ООО "ЛИГА-АРБОЛИТ"
+                <h3 className="text-sm font-medium text-green-600 uppercase tracking-wide">
+                  ЛИГА-АРБОЛИТ
                 </h3>
-                <p className="text-gray-500 text-2xl font-semibold">
+                <p className="text-xs text-gray-500">
                   Технологии и оборудование
                 </p>
               </div>
@@ -42,7 +42,7 @@ const HeroSection = () => {
                 <div className="text-sm text-gray-600">Производительность</div>
               </div>
               <div className="bg-blue-50 p-4 rounded-xl border border-blue-100">
-                <div className="text-2xl font-bold text-blue-600">25 м.кв.</div>
+                <div className="text-2xl font-bold text-blue-600">15 м.кв.</div>
                 <div className="text-sm text-gray-600">Площадь линии</div>
               </div>
             </div>
