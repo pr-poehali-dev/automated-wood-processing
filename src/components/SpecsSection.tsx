@@ -88,8 +88,10 @@ const SpecsSection = () => {
               <div className="text-green-100">утилизация отходов</div>
             </div>
             <div>
-              <div className="text-3xl font-bold mb-2">100%</div>
-              <div className="text-green-100">автоматизация</div>
+              <div className="text-3xl font-bold mb-2">70%</div>
+              <div className="text-green-100">
+                автоматизации изготовления блоков
+              </div>
             </div>
             <div>
               <div className="text-3xl font-bold mb-2">3мм</div>
