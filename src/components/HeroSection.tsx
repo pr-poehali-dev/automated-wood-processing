@@ -11,8 +11,8 @@ const HeroSection = () => {
                 <span className="text-white font-bold text-xl">Л</span>
               </div>
               <div>
-                <h3 className="text-sm font-medium text-green-600 uppercase tracking-wide">
-                  ЛИГА-АРБОЛИТ
+                <h3 className="uppercase tracking-wide text-6xl text-orange-600 font-bold">
+                  ООО "ЛИГА-АРБОЛИТ"
                 </h3>
                 <p className="text-xs text-gray-500">
                   Технологии и оборудование
