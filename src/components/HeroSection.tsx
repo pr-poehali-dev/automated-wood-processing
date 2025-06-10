@@ -42,7 +42,7 @@ const HeroSection = () => {
                 <div className="text-sm text-gray-600">Производительность</div>
               </div>
               <div className="bg-blue-50 p-4 rounded-xl border border-blue-100">
-                <div className="text-2xl font-bold text-blue-600">15 м.кв.</div>
+                <div className="text-2xl font-bold text-blue-600">25 м.кв.</div>
                 <div className="text-sm text-gray-600">Площадь линии</div>
               </div>
             </div>
